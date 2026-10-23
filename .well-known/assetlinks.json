@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ictpathshala.twa",
+    "sha256_cert_fingerprints": ["0D:DB:01:79:EE:B3:46:0F:FF:AC:B7:16:33:B3:B8:27:34:0E:EA:83:F5:4C:FF:1D:97:31:5E:22:4C:C9:0D:B3"]
+  }
+}]
